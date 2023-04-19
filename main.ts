@@ -1,3 +1,4 @@
+//@ts-check
 //   ______ _____      //  __  __   _____   _   _   ______   _____    _        ______  __   __
 //  |__   __/ ____|    // |  \/  | |_   _| | \ | | |  ____| |  __ \  | |      |  ____| \ \ / /
 //     | | | (___      // | \  / |   | |   |  \| | | |__    | |__) | | |      | |__     \ V / 
@@ -39,5 +40,4 @@ async function WriteToClipboard(Url:string) {
 WriteToClipboard(BotaEncoded);
 console.log(BotaEncoded);
 
-//@ts-check
 // END OF FILE!
