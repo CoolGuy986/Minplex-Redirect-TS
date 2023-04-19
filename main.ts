@@ -7,7 +7,7 @@
 //     |_| |_____/     // |_|  |_| |_____| |_| \_| |______| |_|      |______| |______| /_/ \_\
 //                     //
 //--------------------------------------------------------------------------------------------\\
-                                                                                              const
+                                                                                          
 const Site = document.location.href;
 const API= 'https://www.mineplex.com/redirect/?to=';
 const BotaEncoded = API+'%27'+btoa(Site)+'%27';
