@@ -4,7 +4,7 @@
   "description": "Creates A URL For Minplex Redirection Service.",
   "main": "main.js",
   "scripts": {
-    "build": "tsc --noEmit",
+    "build": "tsc . --noEmit",
     "test": "node main.js --debug"
   },
   "devDependencies": {
