@@ -35,6 +35,7 @@
   </details>
   </div>
 </body>
+If Asked By A Minplex Staff Member. I will delete this REPO.
 <footer>
 <img src="https://www.mineplex.com/assets/www-mp/img/header/parallaxheader_layer0.jpg"/>
 </footer>
