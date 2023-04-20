@@ -1,0 +1,26 @@
+{
+  "name": "minplex-redirection-service",
+  "version": "0.0.1",
+  "description": "Creates A URL For Minplex Redirection Service.",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "node main.js --debug"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoolGuy986/Minplex-Redirect-TS.git#main"
+  },
+  "keywords": [
+    "Mineplex"
+  ],
+  "author": "JGW & Mineplex",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/CoolGuy986/Minplex-Redirect-TS/issues"
+  },
+  "homepage": "https://github.com/CoolGuy986/Minplex-Redirect-TS/tree/main#readme"
+}
