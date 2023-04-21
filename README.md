@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-# Minplex Redirect Service | TypeScript Bookmark
+# Minplex Scripts | TypeScript Bookmark
 
 <body> <!-- ???? Why Red? -->
   <div align="center">
@@ -35,7 +35,8 @@
   </details>
   </div>
 </body>
-If Asked By A Minplex Staff Member. I will delete this REPO.
+<b>I want to clarify that I am not affiliated with the company named Mineplex. The use of the Mineplex logo has not been granted to me. By accessing this repository, you accept any risks associated with it, such as viruses or other issues. If anyone from Mineplex wants me to take this down, please send me a private message, and I will take action immediately.
+</b>
 <footer>
 <img src="https://www.mineplex.com/assets/www-mp/img/header/parallaxheader_layer0.jpg"/>
 </footer>
