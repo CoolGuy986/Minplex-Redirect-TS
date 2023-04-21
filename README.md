@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-# Minplex Redirection Service (Redo) | TypeScript Bookmark
+# Minplex Redirection Service | TypeScript Bookmark
 
 <body> <!-- ???? Why Red? -->
   <div align="center">
